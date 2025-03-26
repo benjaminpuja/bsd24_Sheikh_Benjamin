@@ -36,3 +36,12 @@ feel free to expand or improve this program.
 ## Author
 **Benjamin Sheikh**
 
+### Link
+[Exercise1](./exercise1.md)
+
+### Link
+[Exercise2](./exercise2.md)
+
+### Link
+[Exercise2_Part2](./exercise2_part2.md)
+
