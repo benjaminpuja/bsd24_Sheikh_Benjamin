@@ -1,58 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a11371cf-c837-4a2f-b239-4a9db378ccae" name="Changes" comment="Calculator and dependencies">
-      <change beforePath="$PROJECT_DIR$/src/main/java/at/campus02/bsd/JarDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/campus02/bsd/JarDemo.java" afterDir="false" />
+    <list default="true" id="4570173f-699e-4e57-aa7f-28e9fe40ba9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/campus02/bsd/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/campus02/bsd/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/campus02/bsd/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/campus02/bsd/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo">{
-
-}</component>
-  <component name="ProjectId" id="2uqTEfngSk8CWghmUGslR8pyLMH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "conflict",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
-  }
-}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,60 +28,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a11371cf-c837-4a2f-b239-4a9db378ccae" name="Changes" comment="" />
-      <created>1742974994412</created>
+      <changelist id="4570173f-699e-4e57-aa7f-28e9fe40ba9e" name="Changes" comment="" />
+      <created>1747419098108</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742974994412</updated>
-      <workItem from="1742974995521" duration="221000" />
-      <workItem from="1742975221644" duration="9725000" />
-      <workItem from="1743065674519" duration="66000" />
-      <workItem from="1743067210430" duration="2721000" />
-      <workItem from="1747403111470" duration="851000" />
+      <updated>1747419098108</updated>
+      <workItem from="1747419099284" duration="1121000" />
     </task>
-    <task id="LOCAL-00001" summary="Calculator and dependencies">
-      <option name="closed" value="true" />
-      <created>1742978669829</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1742978669829</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Calculator and dependencies">
-      <option name="closed" value="true" />
-      <created>1747403285133</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1747403285133</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Calculator and dependencies">
-      <option name="closed" value="true" />
-      <created>1747403294680</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1747403294680</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculator and dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator and dependencies" />
   </component>
 </project>

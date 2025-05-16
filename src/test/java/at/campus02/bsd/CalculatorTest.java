@@ -40,4 +40,21 @@ public class CalculatorTest {
         Assertions.assertThrows( ArithmeticException.class,
                 () -> calculator.divide(5.0, 0.0) );
     }
+
+    @Test
+    void testFactorialPositive() {
+        Assertions.assertEquals(120, calculator.factorial(5));
+        Assertions.assertEquals(1,   calculator.factorial(1));
+        Assertions.assertEquals(3628800, calculator.factorial(10));
+    }
+
+    @Test
+    void testFactorialZero() {
+        Assertions.assertEquals(1, calculator.factorial(0));
+    }
+
+    @Test
+    void testFactorialNegative() {
+        Assertions.assertEquals(0, calculator.factorial(-3));
+    }
 }
