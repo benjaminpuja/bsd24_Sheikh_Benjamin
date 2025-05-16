@@ -25,5 +25,8 @@ public class Calculator {
         return number1 * number2;
     }
 
+    public long factorial(int n) {
+        return 0;
+    }
 
 }
